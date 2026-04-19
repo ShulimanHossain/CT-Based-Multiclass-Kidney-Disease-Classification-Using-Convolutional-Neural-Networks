@@ -52,8 +52,8 @@ This project applies deep learning techniques to automatically classify CT scan 
 |------------------|----------
 | ResNet50         | 69.76%     
 | VGG16            | 89.10%     
-| EfficientNetB0   | XX%      
-| Custom CNN       | 95.5%%      
+| EfficientNetB0   | 76.84%      
+| Custom CNN       | 95.5%     
 
 
 ## Conclusion
